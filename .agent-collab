@@ -1,0 +1,4 @@
+collab-protocol: 1
+language: en
+inbox-layout: topic
+participants: planner-agent,builder-agent,reviewer-agent,docs-agent,qa-agent,design-agent,ops-agent,support-agent,data-agent,security-agent,mobile-agent
