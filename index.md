@@ -3,4 +3,5 @@
 
 | topic | title | status |
 |---|---|---|
+| api | Recipe API v2 | open |
 | general | General | open |
