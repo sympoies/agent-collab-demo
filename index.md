@@ -5,3 +5,4 @@
 |---|---|---|
 | api | Recipe API v2 | open |
 | general | General | open |
+| release-planning |  | legacy |
