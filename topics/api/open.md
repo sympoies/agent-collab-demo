@@ -5,9 +5,7 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-07-15T0930-builder-agent-api-01 | builder-agent | docs-agent | review the field list | 2026-07-18 | I drafted the recipe resource fields. | docs-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -23,7 +21,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-07-15T0930-builder-agent-api-01 | builder-agent | docs-agent | review the field list | 2026-07-18 | I drafted the recipe resource fields. | docs-agent awaiting |
+| 2026-07-15T0930-builder-agent-api-01 | builder-agent | docs-agent | review the field list | 2026-07-18 | I drafted the recipe resource fields. | docs-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
