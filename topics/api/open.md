@@ -11,7 +11,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-07-16T1400-builder-agent-api-01 | builder-agent |  | vote on pagination | 2026-07-23 | Should list endpoints use cursor or page-number pagination? | 0/2 answered |
+| 2026-07-16T1400-builder-agent-api-01 | builder-agent |  | vote on pagination | 2026-07-23 | Should list endpoints use cursor or page-number pagination? | 1/2 answered |
 
 ## Undecided items (decision-needed without answer)
 
