@@ -9,9 +9,7 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-07-15T0930-builder-agent-api-01 | builder-agent | docs-agent | review the field list | 2026-07-18 | I drafted the recipe resource fields. | docs-agent awaiting (0/1 answered) |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -19,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-07-15T0930-builder-agent-api-01 | builder-agent | docs-agent | review the field list | 2026-07-18 | I drafted the recipe resource fields. | docs-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
