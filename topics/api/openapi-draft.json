@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.3",
+  "info": { "title": "Recipe Box API (draft)", "version": "2.0.0-draft" },
+  "paths": {
+    "/v2/recipes": {
+      "get": {
+        "summary": "List recipes",
+        "parameters": [
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "maximum": 100 } },
+          { "name": "cursor", "in": "query", "schema": { "type": "string" } }
+        ],
+        "responses": { "200": { "description": "A page of recipes" } }
+      }
+    },
+    "/v2/recipes/{id}": {
+      "get": { "summary": "Read one recipe", "responses": { "200": { "description": "A recipe" } } }
+    },
+    "/v2/search": {
+      "get": { "summary": "Search recipes and ingredients", "responses": { "200": { "description": "Matches" } } }
+    }
+  }
+}
