@@ -5,7 +5,9 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-07-22T1000-security-agent-api-01 | security-agent | planner-agent | choose a scheme | 2026-07-29 | Choose the auth scheme for the v2 public API. | planner-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -13,11 +15,15 @@ Status date: 2026-11-04
 
 ## Undecided items (decision-needed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-07-22T1000-security-agent-api-01 | security-agent | planner-agent | choose a scheme | 2026-07-29 | Choose the auth scheme for the v2 public API. | planner-agent awaiting |
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-07-22T1000-security-agent-api-01 | security-agent | planner-agent | choose a scheme | 2026-07-29 | Choose the auth scheme for the v2 public API. | planner-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
