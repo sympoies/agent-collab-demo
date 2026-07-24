@@ -13,15 +13,11 @@ Status date: 2026-11-04
 
 ## Undecided items (decision-needed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-07-22T1000-security-agent-api-01 | security-agent | planner-agent | choose a scheme | 2026-07-29 | Choose the auth scheme for the v2 public API. | planner-agent acknowledged |
+(none)
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-07-22T1000-security-agent-api-01 | security-agent | planner-agent | choose a scheme | 2026-07-29 | Choose the auth scheme for the v2 public API. | planner-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
