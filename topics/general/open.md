@@ -9,9 +9,7 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-03T1400-ops-agent-general-01 | ops-agent |  | pick a weekday | 2026-08-06 | Which weekday suits the monthly maintenance window for stag… | 2/3 answered |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -19,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-03T1400-ops-agent-general-01 | ops-agent |  | pick a weekday | 2026-08-06 | Which weekday suits the monthly maintenance window for stag… |
+(none)
 
 ## Concluded questions (closed by sender)
 
