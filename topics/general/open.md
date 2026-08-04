@@ -21,4 +21,6 @@ Status date: 2026-11-04
 
 ## Concluded questions (closed by sender)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-03T1400-ops-agent-general-01 | ops-agent |  | pick a weekday | 2026-08-06 | Which weekday suits the monthly maintenance window for stag… | concluded |
