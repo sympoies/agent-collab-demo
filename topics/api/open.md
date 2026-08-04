@@ -9,9 +9,7 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-03T1130-builder-agent-api-01 | builder-agent | ops-agent | answer counted or not | 2026-08-07 | Should rate limits count failed requests too? | ops-agent awaiting (0/1 answered) |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -19,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-03T1130-builder-agent-api-01 | builder-agent | ops-agent | answer counted or not | 2026-08-07 | Should rate limits count failed requests too? | ops-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
