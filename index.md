@@ -5,4 +5,5 @@
 |---|---|---|
 | api | Recipe API v2 | open |
 | general | General | open |
+| onboarding | Onboarding | open |
 | release-planning | Release planning | open |
