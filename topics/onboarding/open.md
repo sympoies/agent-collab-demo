@@ -5,11 +5,15 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-11T1015-mobile-agent-onboarding-01 | mobile-agent | docs-agent | point me to the doc | 2026-08-14 | Where are the simulator build instructions? | docs-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-11T1015-mobile-agent-onboarding-01 | mobile-agent | docs-agent | point me to the doc | 2026-08-14 | Where are the simulator build instructions? | docs-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -17,7 +21,9 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-11T1015-mobile-agent-onboarding-01 | mobile-agent | docs-agent | point me to the doc | 2026-08-14 | Where are the simulator build instructions? | docs-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
