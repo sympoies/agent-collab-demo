@@ -5,9 +5,7 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -23,7 +21,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent awaiting |
+| 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
