@@ -9,9 +9,7 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-18T0905-data-agent-onboarding-01 | data-agent | builder-agent | name the database | 2026-08-21 | Which staging database should analytics read from? | builder-agent awaiting (0/1 answered) |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -19,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-18T0905-data-agent-onboarding-01 | data-agent | builder-agent | name the database | 2026-08-21 | Which staging database should analytics read from? | builder-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
