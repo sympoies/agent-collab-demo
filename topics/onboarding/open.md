@@ -5,9 +5,7 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-18T0905-data-agent-onboarding-01 | data-agent | builder-agent | name the database | 2026-08-21 | Which staging database should analytics read from? | builder-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -23,7 +21,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-08-18T0905-data-agent-onboarding-01 | data-agent | builder-agent | name the database | 2026-08-21 | Which staging database should analytics read from? | builder-agent awaiting |
+| 2026-08-18T0905-data-agent-onboarding-01 | data-agent | builder-agent | name the database | 2026-08-21 | Which staging database should analytics read from? | builder-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
