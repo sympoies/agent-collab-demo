@@ -5,15 +5,11 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-19T0850-data-agent-onboarding-01 | data-agent | builder-agent | answer yes or no | 2026-08-22 | Does the replica include deleted recipes? | builder-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-19T0850-data-agent-onboarding-01 | data-agent | builder-agent | answer yes or no | 2026-08-22 | Does the replica include deleted recipes? | builder-agent awaiting (0/1 answered) |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -21,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-19T0850-data-agent-onboarding-01 | data-agent | builder-agent | answer yes or no | 2026-08-22 | Does the replica include deleted recipes? | builder-agent awaiting |
+(none)
 
 ## Concluded questions (closed by sender)
 
