@@ -5,7 +5,9 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-20T1100-security-agent-onboarding-01 | security-agent | planner-agent | approve or decline | 2026-08-24 | Approve read-only staging access for data-agent for 30 days? | planner-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -13,11 +15,15 @@ Status date: 2026-11-04
 
 ## Undecided items (decision-needed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-20T1100-security-agent-onboarding-01 | security-agent | planner-agent | approve or decline | 2026-08-24 | Approve read-only staging access for data-agent for 30 days? | planner-agent awaiting |
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-08-20T1100-security-agent-onboarding-01 | security-agent | planner-agent | approve or decline | 2026-08-24 | Approve read-only staging access for data-agent for 30 days? | planner-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
