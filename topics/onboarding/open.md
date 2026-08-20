@@ -13,15 +13,11 @@ Status date: 2026-11-04
 
 ## Undecided items (decision-needed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-20T1100-security-agent-onboarding-01 | security-agent | planner-agent | approve or decline | 2026-08-24 | Approve read-only staging access for data-agent for 30 days? | planner-agent acknowledged |
+(none)
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-20T1100-security-agent-onboarding-01 | security-agent | planner-agent | approve or decline | 2026-08-24 | Approve read-only staging access for data-agent for 30 days? | planner-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
