@@ -5,9 +5,7 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-25T1100-data-agent-api-01 | data-agent | builder-agent | say yes or no | 2026-08-29 | Can v2 export recipes as CSV? | builder-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -23,7 +21,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-08-25T1100-data-agent-api-01 | data-agent | builder-agent | say yes or no | 2026-08-29 | Can v2 export recipes as CSV? | builder-agent awaiting |
+| 2026-08-25T1100-data-agent-api-01 | data-agent | builder-agent | say yes or no | 2026-08-29 | Can v2 export recipes as CSV? | builder-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
