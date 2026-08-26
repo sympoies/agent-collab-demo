@@ -9,9 +9,7 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-25T1100-data-agent-api-01 | data-agent | builder-agent | say yes or no | 2026-08-29 | Can v2 export recipes as CSV? | builder-agent awaiting (0/1 answered) |
+(none)
 
 ## Undecided items (decision-needed without answer)
 
@@ -19,9 +17,7 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-08-25T1100-data-agent-api-01 | data-agent | builder-agent | say yes or no | 2026-08-29 | Can v2 export recipes as CSV? | builder-agent acknowledged |
+(none)
 
 ## Concluded questions (closed by sender)
 
