@@ -12,7 +12,6 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent awaiting (0/1 answered) |
-| 2026-08-26T0945-mobile-agent-release-planning-01 | mobile-agent | builder-agent | state the format | 2026-08-28 | Which build number format do release candidates use? | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -23,7 +22,6 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent acknowledged |
-| 2026-08-26T0945-mobile-agent-release-planning-01 | mobile-agent | builder-agent | state the format | 2026-08-28 | Which build number format do release candidates use? | builder-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
