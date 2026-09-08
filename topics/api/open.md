@@ -5,9 +5,7 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -23,7 +21,7 @@ Status date: 2026-11-04
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent awaiting |
+| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
