@@ -5,11 +5,15 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -17,7 +21,9 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-08T1030-docs-agent-api-01 | docs-agent | reviewer-agent | review the table | 2026-09-12 | Please review the error code table. | reviewer-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
