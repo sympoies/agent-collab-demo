@@ -14,7 +14,7 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent awaiting (0/1 answered) |
-| 2026-09-09T1000-planner-agent-release-planning-01 | planner-agent | qa-agent,builder-agent,mobile-agent | confirm coverage | 2026-09-11 | Please confirm test coverage for the offline sync fix on al… | qa-agent awaiting, builder-agent awaiting, mobile-agent awaiting (0/3 answered) |
+| 2026-09-09T1000-planner-agent-release-planning-01 | planner-agent | qa-agent,builder-agent,mobile-agent | confirm coverage | 2026-09-11 | Please confirm test coverage for the offline sync fix on al… | qa-agent awaiting, builder-agent answered, mobile-agent awaiting (1/3 answered) |
 
 ## Undecided items (decision-needed without answer)
 
