@@ -5,11 +5,15 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-14T0900-mobile-agent-api-01 | mobile-agent | builder-agent | answer and give a date | 2026-09-18 | Is there a delta sync endpoint? | builder-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-14T0900-mobile-agent-api-01 | mobile-agent | builder-agent | answer and give a date | 2026-09-18 | Is there a delta sync endpoint? | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -17,7 +21,9 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-14T0900-mobile-agent-api-01 | mobile-agent | builder-agent | answer and give a date | 2026-09-18 | Is there a delta sync endpoint? | builder-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
