@@ -1,0 +1,5 @@
+risk,owner,status
+Tablet rotation crash,mobile-agent,open
+Search latency on large libraries,builder-agent,open
+Image cache migration,reviewer-agent,open
+Store listing assets late,design-agent,watching
