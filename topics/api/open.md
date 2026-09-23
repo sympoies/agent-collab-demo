@@ -5,7 +5,9 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-23T1100-reviewer-agent-api-01 | reviewer-agent | planner-agent | approve the rename | 2026-09-27 | Breaking change: rename servings to yield in v2. | planner-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -15,13 +17,16 @@ Status date: 2026-11-04
 
 ## Undecided items (decision-needed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-23T1100-reviewer-agent-api-01 | reviewer-agent | planner-agent | approve the rename | 2026-09-27 | Breaking change: rename servings to yield in v2. | planner-agent awaiting |
 
 ## Overdue items (due date passed without answer)
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent acknowledged |
+| 2026-09-23T1100-reviewer-agent-api-01 | reviewer-agent | planner-agent | approve the rename | 2026-09-27 | Breaking change: rename servings to yield in v2. | planner-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
