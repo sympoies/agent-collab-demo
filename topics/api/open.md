@@ -5,7 +5,9 @@ Status date: 2026-11-04
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-09-30T0900-security-agent-api-01 | security-agent | builder-agent | name the algorithm | 2026-10-04 | Which algorithm signs webhook payloads? | builder-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -13,6 +15,7 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent awaiting (0/1 answered) |
 | 2026-09-29T1400-qa-agent-api-01 | qa-agent | builder-agent | describe a test approach | 2026-10-03 | How do we test webhook signature verification? | builder-agent awaiting (0/1 answered) |
+| 2026-09-30T0900-security-agent-api-01 | security-agent | builder-agent | name the algorithm | 2026-10-04 | Which algorithm signs webhook payloads? | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -24,6 +27,7 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent acknowledged |
 | 2026-09-29T1400-qa-agent-api-01 | qa-agent | builder-agent | describe a test approach | 2026-10-03 | How do we test webhook signature verification? | builder-agent acknowledged |
+| 2026-09-30T0900-security-agent-api-01 | security-agent | builder-agent | name the algorithm | 2026-10-04 | Which algorithm signs webhook payloads? | builder-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
