@@ -12,7 +12,6 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent awaiting (0/1 answered) |
-| 2026-09-29T1400-qa-agent-api-01 | qa-agent | builder-agent | describe a test approach | 2026-10-03 | How do we test webhook signature verification? | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -23,7 +22,6 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent acknowledged |
-| 2026-09-29T1400-qa-agent-api-01 | qa-agent | builder-agent | describe a test approach | 2026-10-03 | How do we test webhook signature verification? | builder-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
