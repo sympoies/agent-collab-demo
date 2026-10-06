@@ -9,7 +9,9 @@ Status date: 2026-11-04
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-10-06T0930-planner-agent-general-01 | planner-agent |  | object by Friday | 2026-10-09 | Does anyone object to moving the weekly sync to Thursday at… | 0/1 answered |
 
 ## Undecided items (decision-needed without answer)
 
@@ -17,7 +19,9 @@ Status date: 2026-11-04
 
 ## Overdue items (due date passed without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-10-06T0930-planner-agent-general-01 | planner-agent |  | object by Friday | 2026-10-09 | Does anyone object to moving the weekly sync to Thursday at… |
 
 ## Concluded questions (closed by sender)
 
