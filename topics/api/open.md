@@ -13,7 +13,6 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent awaiting (0/1 answered) |
 | 2026-10-05T1000-planner-agent-api-01 | planner-agent |  | say if you agree | 2026-10-12 | What is our deprecation policy for v1 endpoints? | 5/10 answered |
-| 2026-10-08T1000-mobile-agent-api-01 | mobile-agent | docs-agent | answer | 2026-10-14 | Will there be a mobile SDK, or do we call the REST API dire… | docs-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -25,7 +24,6 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-09-16T1020-qa-agent-api-01 | qa-agent | builder-agent | decide on test hooks | 2026-09-22 | Can we get test hooks to reset a test account? | builder-agent acknowledged |
 | 2026-10-05T1000-planner-agent-api-01 | planner-agent |  | say if you agree | 2026-10-12 | What is our deprecation policy for v1 endpoints? |
-| 2026-10-08T1000-mobile-agent-api-01 | mobile-agent | docs-agent | answer | 2026-10-14 | Will there be a mobile SDK, or do we call the REST API dire… | docs-agent acknowledged |
 
 ## Concluded questions (closed by sender)
 
