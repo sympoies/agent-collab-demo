@@ -29,4 +29,6 @@ Status date: 2026-11-04
 
 ## Concluded questions (closed by sender)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-10-13T1000-ops-agent-release-planning-01 | ops-agent |  | propose a branch date | 2026-10-16 | When do we branch 2.5? Staging needs two days of notice to … | concluded |
