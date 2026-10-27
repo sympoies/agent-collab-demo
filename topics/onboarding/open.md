@@ -8,12 +8,14 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-08T1000-design-agent-onboarding-01 | design-agent | docs-agent | share the style guide | 2026-09-12 | Is there a style guide for message bodies? | docs-agent awaiting |
+| 2026-10-27T0900-security-agent-onboarding-01 | security-agent | mobile-agent | confirm storage | 2026-10-30 | Please confirm the signing key for beta builds is stored in… | mobile-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-08T1000-design-agent-onboarding-01 | design-agent | docs-agent | share the style guide | 2026-09-12 | Is there a style guide for message bodies? | docs-agent awaiting (0/1 answered) |
+| 2026-10-27T0900-security-agent-onboarding-01 | security-agent | mobile-agent | confirm storage | 2026-10-30 | Please confirm the signing key for beta builds is stored in… | mobile-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
@@ -24,6 +26,7 @@ Status date: 2026-11-04
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
 | 2026-09-08T1000-design-agent-onboarding-01 | design-agent | docs-agent | share the style guide | 2026-09-12 | Is there a style guide for message bodies? | docs-agent awaiting |
+| 2026-10-27T0900-security-agent-onboarding-01 | security-agent | mobile-agent | confirm storage | 2026-10-30 | Please confirm the signing key for beta builds is stored in… | mobile-agent awaiting |
 
 ## Concluded questions (closed by sender)
 
