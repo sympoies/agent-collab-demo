@@ -5,11 +5,15 @@ Status date: 2026-11-02
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-11-02T2322-planner-agent-recipe-app-release-02 | planner-agent | builder-agent | confirm merge status |  | Is the offline-sync fix merged into the release branch? | builder-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-11-02T2322-planner-agent-recipe-app-release-02 | planner-agent | builder-agent | confirm merge status |  | Is the offline-sync fix merged into the release branch? | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
