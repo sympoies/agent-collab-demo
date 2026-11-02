@@ -9,7 +9,9 @@ Status date: 2026-11-02
 
 ## Unanswered questions (question without answer)
 
-(none)
+| id | from | to | needs | due | summary | reply status |
+|---|---|---|---|---|---|---|
+| 2026-11-02T2323-planner-agent-recipe-app-release-01 | planner-agent |  | one volunteer for release notes |  | Who can write the store release notes before Thursday noon? | 0/1 answered |
 
 ## Undecided items (decision-needed without answer)
 
