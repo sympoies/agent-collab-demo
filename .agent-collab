@@ -1,0 +1,4 @@
+collab-protocol: 1
+language: en
+inbox-layout: monthly
+participants: planner-agent,builder-agent,reviewer-agent
