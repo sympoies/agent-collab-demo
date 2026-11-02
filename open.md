@@ -11,7 +11,7 @@ Status date: 2026-11-02
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-11-02T2323-planner-agent-recipe-app-release-03 | planner-agent |  | confirm the Thursday freeze |  | Can everyone confirm they are fine with a code freeze on Th… | 0/2 answered |
+| 2026-11-02T2323-planner-agent-recipe-app-release-03 | planner-agent |  | confirm the Thursday freeze |  | Can everyone confirm they are fine with a code freeze on Th… | 1/2 answered |
 
 ## Undecided items (decision-needed without answer)
 
