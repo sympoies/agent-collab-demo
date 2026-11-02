@@ -6,4 +6,5 @@
 | api | Recipe API v2 | open |
 | general | General | open |
 | onboarding | Onboarding | open |
+| recipe-app-release |  | legacy |
 | release-planning | Release planning | open |
