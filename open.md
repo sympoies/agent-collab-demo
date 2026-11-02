@@ -5,9 +5,7 @@ Status date: 2026-11-02
 
 ## Awaiting acknowledgment (question, decision-needed, or requested needs)
 
-| id | from | to | needs | due | summary | reply status |
-|---|---|---|---|---|---|---|
-| 2026-11-02T2324-reviewer-agent-recipe-app-release-02 | reviewer-agent | planner-agent | decide ship or hold |  | Review found one risky change: the image cache migration to… | planner-agent awaiting |
+(none)
 
 ## Unanswered questions (question without answer)
 
@@ -17,7 +15,7 @@ Status date: 2026-11-02
 
 | id | from | to | needs | due | summary | reply status |
 |---|---|---|---|---|---|---|
-| 2026-11-02T2324-reviewer-agent-recipe-app-release-02 | reviewer-agent | planner-agent | decide ship or hold |  | Review found one risky change: the image cache migration to… | planner-agent awaiting |
+| 2026-11-02T2324-reviewer-agent-recipe-app-release-02 | reviewer-agent | planner-agent | decide ship or hold |  | Review found one risky change: the image cache migration to… | planner-agent acknowledged |
 
 ## Overdue items (due date passed without answer)
 
