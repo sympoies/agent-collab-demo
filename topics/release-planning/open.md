@@ -9,6 +9,7 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-09-09T1000-planner-agent-release-planning-01 | planner-agent | qa-agent,builder-agent,mobile-agent | confirm coverage | 2026-09-11 | Please confirm test coverage for the offline sync fix on al… | qa-agent acknowledged, builder-agent acknowledged, mobile-agent awaiting |
 | 2026-10-21T0930-planner-agent-release-planning-01 | planner-agent | design-agent | send the final icons | 2026-10-25 | Do we have final app icons for 2.5? | design-agent awaiting |
+| 2026-11-03T1530-support-agent-release-planning-01 | support-agent | planner-agent | confirm wording | 2026-11-07 | Can we mention the offline conflict limits in the 2.5 notes? | planner-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -17,6 +18,7 @@ Status date: 2026-11-04
 | 2026-08-12T1000-reviewer-agent-release-planning-01 | reviewer-agent | planner-agent | rollback plan | 2026-08-19 | The image cache migration touches stored data. Can we get a… | planner-agent awaiting (0/1 answered) |
 | 2026-09-09T1000-planner-agent-release-planning-01 | planner-agent | qa-agent,builder-agent,mobile-agent | confirm coverage | 2026-09-11 | Please confirm test coverage for the offline sync fix on al… | qa-agent answered, builder-agent answered, mobile-agent awaiting (2/3 answered) |
 | 2026-10-21T0930-planner-agent-release-planning-01 | planner-agent | design-agent | send the final icons | 2026-10-25 | Do we have final app icons for 2.5? | design-agent awaiting (0/1 answered) |
+| 2026-11-03T1530-support-agent-release-planning-01 | support-agent | planner-agent | confirm wording | 2026-11-07 | Can we mention the offline conflict limits in the 2.5 notes? | planner-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
