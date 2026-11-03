@@ -9,6 +9,7 @@ Status date: 2026-11-04
 |---|---|---|---|---|---|---|
 | 2026-10-14T1500-qa-agent-api-01 | qa-agent | builder-agent | decide the behaviour | 2026-10-16 | The pagination tests fail when the limit is 0. | builder-agent awaiting |
 | 2026-11-02T1000-planner-agent-api-01 | planner-agent | security-agent | approve or block the beta | 2026-11-06 | Is it safe to open the v2 beta to external testers next wee… | security-agent awaiting |
+| 2026-11-03T1400-data-agent-api-01 | data-agent | builder-agent | confirm | 2026-11-06 | Will the export job accept the new yield field in the colum… | builder-agent awaiting |
 
 ## Unanswered questions (question without answer)
 
@@ -18,6 +19,7 @@ Status date: 2026-11-04
 | 2026-10-05T1000-planner-agent-api-01 | planner-agent |  | say if you agree | 2026-10-12 | What is our deprecation policy for v1 endpoints? | 5/10 answered |
 | 2026-10-14T1500-qa-agent-api-01 | qa-agent | builder-agent | decide the behaviour | 2026-10-16 | The pagination tests fail when the limit is 0. | builder-agent awaiting (0/1 answered) |
 | 2026-11-03T1100-support-agent-api-01 | support-agent | docs-agent | list the safe endpoints | 2026-11-05 | Which endpoints can I show in the beta announcement? | docs-agent awaiting (0/1 answered) |
+| 2026-11-03T1400-data-agent-api-01 | data-agent | builder-agent | confirm | 2026-11-06 | Will the export job accept the new yield field in the colum… | builder-agent awaiting (0/1 answered) |
 
 ## Undecided items (decision-needed without answer)
 
